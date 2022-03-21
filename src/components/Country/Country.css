@@ -1,0 +1,12 @@
+.Country{
+    background-color: lightblue;
+    border-radius: 20px;
+}
+.Country img{
+    width: 70%;
+    height: 40%;
+}
+h1 {
+  color: rgb(4, 54, 54);
+}
+span{color: orange;}
